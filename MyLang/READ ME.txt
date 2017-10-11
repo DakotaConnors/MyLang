@@ -1,0 +1,7 @@
+Current "MyLang" Version
+
+"Parser" is a program that takes in the input file and generates token.txt which is a list of tokens and token types of the program.
+
+"AST" is a program to build the absract syntax tree. Currently it only prints the tree out on the console. I'm not sure if I got the exact 
+
+This version DOES NOT use flex and bison at the moment. I kept running into issues trying to get a version like that running and figured I'd rather just have something working to show you, plus you mentioned even though you would like to see it Flex and Bison aren't a requirement. With that said I still plan on working on my flex and bison versoin, it's just not working right now.
