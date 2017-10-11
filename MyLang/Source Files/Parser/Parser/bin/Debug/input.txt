@@ -1,0 +1,6 @@
+START
+i = 10
+a + b
+string word
+string word2 = word
+STOP

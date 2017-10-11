@@ -1,0 +1,5 @@
+START
+string greeting
+string string2 = string
+int i
+STOP

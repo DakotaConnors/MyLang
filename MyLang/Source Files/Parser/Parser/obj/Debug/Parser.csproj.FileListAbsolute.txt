@@ -1,0 +1,6 @@
+c:\users\dakota\documents\visual studio 2015\Projects\Parser\Parser\bin\Debug\Parser.exe.config
+c:\users\dakota\documents\visual studio 2015\Projects\Parser\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+c:\users\dakota\documents\visual studio 2015\Projects\Parser\Parser\bin\Debug\Parser.exe
+c:\users\dakota\documents\visual studio 2015\Projects\Parser\Parser\bin\Debug\Parser.pdb
+c:\users\dakota\documents\visual studio 2015\Projects\Parser\Parser\obj\Debug\Parser.exe
+c:\users\dakota\documents\visual studio 2015\Projects\Parser\Parser\obj\Debug\Parser.pdb

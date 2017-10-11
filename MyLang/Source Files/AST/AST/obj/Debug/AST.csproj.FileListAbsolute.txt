@@ -1,0 +1,6 @@
+c:\users\dakota\documents\visual studio 2015\Projects\AST\AST\bin\Debug\AST.exe.config
+c:\users\dakota\documents\visual studio 2015\Projects\AST\AST\bin\Debug\AST.exe
+c:\users\dakota\documents\visual studio 2015\Projects\AST\AST\bin\Debug\AST.pdb
+c:\users\dakota\documents\visual studio 2015\Projects\AST\AST\obj\Debug\AST.csprojResolveAssemblyReference.cache
+c:\users\dakota\documents\visual studio 2015\Projects\AST\AST\obj\Debug\AST.exe
+c:\users\dakota\documents\visual studio 2015\Projects\AST\AST\obj\Debug\AST.pdb
