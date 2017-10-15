@@ -1,0 +1,6 @@
+PROGRAM product
+LET m = 2
+LET a = 4
+LET force = m*a
+PRINT force
+END
